@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Simple",
+        "precio": 350,
+        "img":"agua-pellegrino-jpg",
+        "dataId": "P1"
+    },
+    {
+        "id": 2,
+        "nombre": "Hamburguesa Completa",
+        "precio": 420,
+        "img":"agua-pellegrino-jpg",
+        "dataId": "P2"
+    },
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Super Morena",
+        "precio": 500,
+        "img":"agua-pellegrino-jpg",
+        "dataId": "P3"
+    }
+]
